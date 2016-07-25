@@ -1,0 +1,6 @@
+C:\projects\קורס .net\12.2 - linq\LinqToXML\LinqToXML\bin\Debug\LinqToXML.exe.config
+C:\projects\קורס .net\12.2 - linq\LinqToXML\LinqToXML\bin\Debug\LinqToXML.exe
+C:\projects\קורס .net\12.2 - linq\LinqToXML\LinqToXML\bin\Debug\LinqToXML.pdb
+C:\projects\קורס .net\12.2 - linq\LinqToXML\LinqToXML\obj\Debug\LinqToXML.csprojResolveAssemblyReference.cache
+C:\projects\קורס .net\12.2 - linq\LinqToXML\LinqToXML\obj\Debug\LinqToXML.exe
+C:\projects\קורס .net\12.2 - linq\LinqToXML\LinqToXML\obj\Debug\LinqToXML.pdb

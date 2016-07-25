@@ -1,0 +1,6 @@
+C:\projects\קורס .net\12.1 - linq\LinqToObject\LinqToObject\bin\Debug\LinqToObject.exe.config
+C:\projects\קורס .net\12.1 - linq\LinqToObject\LinqToObject\bin\Debug\LinqToObject.exe
+C:\projects\קורס .net\12.1 - linq\LinqToObject\LinqToObject\bin\Debug\LinqToObject.pdb
+C:\projects\קורס .net\12.1 - linq\LinqToObject\LinqToObject\obj\Debug\LinqToObject.csprojResolveAssemblyReference.cache
+C:\projects\קורס .net\12.1 - linq\LinqToObject\LinqToObject\obj\Debug\LinqToObject.exe
+C:\projects\קורס .net\12.1 - linq\LinqToObject\LinqToObject\obj\Debug\LinqToObject.pdb

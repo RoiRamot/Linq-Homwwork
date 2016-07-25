@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XML_Summery>
+  <Type Name="Microsoft.Win32.Registry">
+    <Properties_count>0</Properties_count>
+    <Method_count>7</Method_count>
+  </Type>
+  <Type Name="Microsoft.Win32.RegistryKey">
+    <Properties_count>5</Properties_count>
+    <Method_count>56</Method_count>
+  </Type>
+  <Type Name="Microsoft.Win32.SafeHandles.SafeFileHandle">
+    <Properties_count>7</Properties_count>
+    <Method_count>68</Method_count>
+  </Type>
+  <Type Name="Microsoft.Win32.SafeHandles.SafeRegistryHandle">
+    <Properties_count>9</Properties_count>
+    <Method_count>80</Method_count>
+  </Type>
+  <Type Name="Microsoft.Win32.SafeHandles.SafeWaitHandle">
+    <Properties_count>11</Properties_count>
+    <Method_count>92</Method_count>
+  </Type>
+  <Type Name="Microsoft.Win32.SafeHandles.SafeHandleZeroOrMinusOneIsInvalid">
+    <Properties_count>13</Properties_count>
+    <Method_count>104</Method_count>
+  </Type>
+  <Type Name="Microsoft.Win32.SafeHandles.SafeHandleMinusOneIsInvalid">
+    <Properties_count>15</Properties_count>
+    <Method_count>116</Method_count>
+  </Type>
+  <Type Name="Microsoft.Win32.SafeHandles.CriticalHandleZeroOrMinusOneIsInvalid">
+    <Properties_count>17</Properties_count>
+    <Method_count>125</Method_count>
+  </Type>
+  <Type Name="Microsoft.Win32.SafeHandles.CriticalHandleMinusOneIsInvalid">
+    <Properties_count>19</Properties_count>
+    <Method_count>134</Method_count>
+  </Type>
+  <Type Name="Microsoft.Win32.SafeHandles.SafeAccessTokenHandle">
+    <Properties_count>22</Properties_count>
+    <Method_count>147</Method_count>
+  </Type>
+  <Type Name="System.AggregateException">
+    <Properties_count>31</Properties_count>
+    <Method_count>167</Method_count>
+  </Type>
+  <Type Name="System.AppContext">
+    <Properties_count>32</Properties_count>
+    <Method_count>174</Method_count>
+  </Type>
+  <Type Name="System.Object">
+    <Properties_count>32</Properties_count>
+    <Method_count>180</Method_count>
+  </Type>
+  <Type Name="System.Action`1">
+    <Properties_count>34</Properties_count>
+    <Method_count>193</Method_count>
+  </Type>
+  <Type Name="System.Action">
+    <Properties_count>36</Properties_count>
+    <Method_count>206</Method_count>
+  </Type>
+  <Type Name="System.Action`2">
+    <Properties_count>38</Properties_count>
+    <Method_count>219</Method_count>
+  </Type>
+  <Type Name="System.Action`3">
+    <Properties_count>40</Properties_count>
+    <Method_count>232</Method_count>
+  </Type>
+  <Type Name="System.Action`4">
+    <Properties_count>42</Properties_count>
+    <Method_count>245</Method_count>
+  </Type>
+  <Type Name="System.Func`1">
+    <Properties_count>44</Properties_count>
+    <Method_count>258</Method_count>
+  </Type>
+  <Type Name="System.Func`2">
+    <Properties_count>46</Properties_count>
+    <Method_count>271</Method_count>
+  </Type>
+  <Type Name="System.Func`3">
+    <Properties_count>48</Properties_count>
+    <Method_count>284</Method_count>
+  </Type>
+</XML_Summery>

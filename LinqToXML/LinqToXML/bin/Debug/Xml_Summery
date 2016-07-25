@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XML_Summery>
+  <Type Name="Microsoft.Win32.Registry">0<Method_count />0</Type>
+  <Type Name="Microsoft.Win32.RegistryKey">5<Method_count />0</Type>
+  <Type Name="Microsoft.Win32.SafeHandles.SafeFileHandle">7<Method_count />0</Type>
+  <Type Name="Microsoft.Win32.SafeHandles.SafeRegistryHandle">9<Method_count />0</Type>
+  <Type Name="Microsoft.Win32.SafeHandles.SafeWaitHandle">11<Method_count />0</Type>
+  <Type Name="Microsoft.Win32.SafeHandles.SafeHandleZeroOrMinusOneIsInvalid">13<Method_count />0</Type>
+  <Type Name="Microsoft.Win32.SafeHandles.SafeHandleMinusOneIsInvalid">15<Method_count />0</Type>
+  <Type Name="Microsoft.Win32.SafeHandles.CriticalHandleZeroOrMinusOneIsInvalid">17<Method_count />0</Type>
+  <Type Name="Microsoft.Win32.SafeHandles.CriticalHandleMinusOneIsInvalid">19<Method_count />0</Type>
+  <Type Name="Microsoft.Win32.SafeHandles.SafeAccessTokenHandle">22<Method_count />0</Type>
+  <Type Name="System.AggregateException">31<Method_count />0</Type>
+</XML_Summery>
